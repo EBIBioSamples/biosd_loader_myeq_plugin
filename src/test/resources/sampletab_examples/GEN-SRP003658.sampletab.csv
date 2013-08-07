@@ -1,0 +1,24 @@
+[MSI]
+Submission Title	Streptococcus ictaluri 707-05 genome sequencing
+Submission Identifier	GEN-SRP003658
+Submission Description	 Streptococcus ictaluri 707-05 . This is the type strain and will be used for comparative analysis.
+Submission Version	1.2
+Submission Reference Layer	false
+Submission Release Date	2013/07/11
+Submission Update Date	2013/07/11
+Organization Name	JCVI	
+Organization Address		
+Organization URI		
+Organization Email		
+Organization Role	Submitter	
+Term Source Name	NCBI Taxonomy	
+Term Source URI	http://www.ncbi.nlm.nih.gov/taxonomy/	
+Term Source Version		
+Database Name	ENA SRA	
+Database ID	SRP003658	
+Database URI	http://www.ebi.ac.uk/ena/data/view/SRP003658	
+
+[SCD]
+Sample Name	Sample Accession	Sample Description	Comment[Synonym]	Comment[Synonym]	Comment[Synonym]	Database Name	Database ID	Database URI	Organism	Term Source REF	Term Source ID	Group Name	Group Accession	
+SRS115285	SAMN00113752	Total DNA isolated from Streptococcus ictaluri 707-05	1126911804046 Streptococcus ictaluri 707-05 SIC1-BP3KB-A2NB-01-637 Sample	SAMEA967203	Streptococcus ictaluri 707-05; Generic sample from Streptococcus ictaluri 707-05	ENA SRA	SRS115285	http://www.ebi.ac.uk/ena/data/view/SRS115285	Streptococcus ictaluri 707-05	NCBI Taxonomy	764299	Other Group	SAMEG38578	
+SRS116471	SAMN00114938	Total DNA isolated from Streptococcus ictaluri 707-05	1126909653972 Streptococcus ictaluri 707-05 SIC1-PE-ILI3-01 Sample	SAMEA964570	Streptococcus ictaluri 707-05; Generic sample from Streptococcus ictaluri 707-05	ENA SRA	SRS116471	http://www.ebi.ac.uk/ena/data/view/SRS116471	Streptococcus ictaluri 707-05	NCBI Taxonomy	764299	Other Group	SAMEG38578	
